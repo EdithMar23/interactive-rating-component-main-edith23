@@ -31,7 +31,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](screenshoots/thank-you-page.jpeg)
+![](screenshoots/rating-page.jpg)
+![](screenshoots/mobil-rating-page.jpg)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
@@ -43,8 +45,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/EdithMar23/interactive-rating-component-main-edith23
+- Live Site URL: https://joyful-bombolone-cd5a5c.netlify.app/
 
 ## My process
 
